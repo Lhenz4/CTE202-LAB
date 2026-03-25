@@ -48,7 +48,7 @@ class LinkedStack:
             current = current.next
 
 
-# Example Usage
+# Example usage
 stack1 = LinkedStack()
 
 print("Stack is empty:", stack1.is_empty())
